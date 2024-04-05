@@ -3,6 +3,7 @@
     <h3>App组件</h3>
     <p>添加Todo</p>
     <p>删除todo</p>
+    <p>过滤todo</p>
   </div>
 </template>
 
